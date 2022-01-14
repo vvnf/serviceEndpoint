@@ -1,4 +1,4 @@
-# euroWingsServiceEndpoint
+# ServiceEndpoint
 EuroWings Assignent.
 
 This is a service end point created in Node.js
